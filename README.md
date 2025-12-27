@@ -26,10 +26,3 @@ Poster presentation for a research project showcasing a data coding application 
 * **Analysis & Visualization**: pandas, numpy, matplotlib, plotly
 
 
-
-
-
-
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/nicholas-r-a16849201/) | [Email](nr.20.student@gmail.com)
