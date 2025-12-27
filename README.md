@@ -11,7 +11,7 @@ Python Flask application that uses machine learning to predict visual auras usin
 
 *(Python, Flask, scikit-learn, Plotly)*
 
-### Data Coding App Poster Presentation  [![](https://img.shields.io/badge/View-Poster-blue?style=flat&logo=pdf)](Honors_Posters.pdf) 
+### [Data Coding App Poster Presentation](Honors_Posters.pdf) 
 Poster presentation for a research project showcasing a data coding application that interfaces with the OpenAI API to automatically score experimental CSV files.  
 *Uploaded files are processed using pandas; scoring supports binary and multi-categorical (exclusive and non-exclusive) outputs.*  
 
